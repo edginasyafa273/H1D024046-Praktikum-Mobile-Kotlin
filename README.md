@@ -7,21 +7,6 @@
 
 Aplikasi ini merupakan aplikasi mobile Android berbasis Jetpack Compose (Kotlin) yang dibuat untuk memenuhi Tugas Pertemuan 1 Praktikum Pemrograman Mobile. Aplikasi bernama **Jualan** menampilkan halaman "Tentang Jualan", yaitu sebuah platform yang mewadahi produk lokal UMKM di wilayah Kabupaten Purbalingga, Jawa Tengah.
 
-### Fitur dan Alur Kerja Aplikasi:
-
-1. **Icon Aplikasi Custom**
-   * Icon bawaan Android Studio (robot hijau) diganti menggunakan Image Asset Studio dengan icon custom bertema tumbuhan/daun yang merepresentasikan aplikasi Jualan.
-
-2. **Halaman Utama (Tentang Jualan)**
-   * **Header Lingkaran (Box + CircleShape):** Menampilkan lingkaran abu-abu berisi tulisan "Jualan" di bagian atas layar, dibuat menggunakan komponen `Box` dengan `Modifier.clip(CircleShape)`.
-   * **Judul:** Teks "Tentang Jualan" ditampilkan dengan ukuran besar dan tebal (`fontSize = 24.sp`, `fontWeight = FontWeight.Bold`).
-   * **Deskripsi Aplikasi:** Teks penjelasan singkat mengenai tujuan aplikasi Jualan sebagai wadah produk UMKM lokal.
-   * **Bagian Misi (Row):** Menampilkan baris berlatar abu-abu terang berisi "Misi Kami: Memajukan UMKM Lokal", disusun menggunakan komponen `Row` dengan pembagian proporsi ruang (`Modifier.weight()`).
-
-3. **Tata Letak (Layout)**
-   * Seluruh elemen disusun secara vertikal menggunakan `Column` dengan jarak antar elemen diatur menggunakan `Spacer`.
-   * Elemen diposisikan di tengah secara horizontal menggunakan `Alignment.CenterHorizontally`.
-
 ## Teknologi yang Digunakan
 
 - **Bahasa Pemrograman:** Kotlin
