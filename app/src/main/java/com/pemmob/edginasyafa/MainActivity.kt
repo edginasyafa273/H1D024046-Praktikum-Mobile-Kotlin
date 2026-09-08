@@ -96,10 +96,12 @@ fun LayoutTentangJualan() {
             Text(
                 text = "Misi Kami:",
                 fontWeight = FontWeight.Bold,
+                color = Color.Black,
                 modifier = Modifier.weight(1f)
             )
             Text(
                 text = "Memajukan UMKM Lokal",
+                color = Color.Black,
                 modifier = Modifier.weight(2f)
             )
         }
