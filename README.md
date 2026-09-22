@@ -19,8 +19,8 @@ Pada pertemuan pertama, praktikum memberikan pemahaman dasar mengenai inisialisa
 ## Tugas Pertemuan 2
 
 ## Screenshot
-<img width="738" height="1600" alt="WhatsApp Image 2026-09-16 at 00 10 43 (1)" src="https://github.com/user-attachments/assets/e23b84d4-f6f7-42de-947f-7cdd6750baeb" />
-<img width="738" height="1600" alt="WhatsApp Image 2026-09-16 at 00 10 43" src="https://github.com/user-attachments/assets/31ad5bac-504e-48eb-97c3-0e2b2d99c28d" />
+<img width="250" alt="WhatsApp Image 2026-09-16 at 00 10 43 (1)" src="https://github.com/user-attachments/assets/e23b84d4-f6f7-42de-947f-7cdd6750baeb" />
+<img width="250" alt="WhatsApp Image 2026-09-16 at 00 10 43" src="https://github.com/user-attachments/assets/31ad5bac-504e-48eb-97c3-0e2b2d99c28d" />
 
 
 **Kesimpulan Praktikum:**  
@@ -29,8 +29,8 @@ Pertemuan kedua menekankan pada implementasi tema visual yang konsisten dan fitu
 ## Tugas Pertemuan 3
 
 ## Screenshot
-<img width="738" height="1600" alt="WhatsApp Image 2026-09-22 at 17 09 26" src="https://github.com/user-attachments/assets/e3998b58-3030-43f5-99d7-1542ccef45d1" />
-<img width="738" height="1600" alt="WhatsApp Image 2026-09-22 at 17 09 26 (1)" src="https://github.com/user-attachments/assets/0e778274-34fa-4c9f-acac-3fdb4970e6a4" />
+<img width="250" alt="WhatsApp Image 2026-09-22 at 17 09 26" src="https://github.com/user-attachments/assets/e3998b58-3030-43f5-99d7-1542ccef45d1" />
+<img width="250" alt="WhatsApp Image 2026-09-22 at 17 09 26 (1)" src="https://github.com/user-attachments/assets/0e778274-34fa-4c9f-acac-3fdb4970e6a4" />
 
 
 
