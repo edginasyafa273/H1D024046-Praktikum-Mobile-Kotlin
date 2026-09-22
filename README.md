@@ -13,6 +13,7 @@
 
 <img width="250" alt="WhatsApp Image 2026-09-08 at 19 45 17" src="https://github.com/user-attachments/assets/862e3303-b67e-49e9-ade2-2a6e7462bbde" />
 
+
 **Kesimpulan Praktikum:**  
 Pada pertemuan pertama, praktikum memberikan pemahaman dasar mengenai inisialisasi proyek Android dan penerapan konsep Declarative UI dengan Jetpack Compose. Mahasiswa mempelajari struktur dasar proyek, komponen layout fundamental seperti Column, Row, dan Box, serta cara membangun tampilan sederhana menggunakan fungsi `@Composable` tanpa memerlukan file XML terpisah.
 
