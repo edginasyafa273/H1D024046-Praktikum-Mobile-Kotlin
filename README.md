@@ -39,3 +39,27 @@ Pertemuan kedua menekankan pada implementasi tema visual yang konsisten dan fitu
 
 **Kesimpulan Praktikum:**  
 Pertemuan ketiga membuka wawasan tentang pengembangan aplikasi mobile yang lebih kompleks dengan data dinamis. Mahasiswa belajar bagaimana mengintegrasikan struktur data terstruktur (data class) dengan komponen tata letak yang efisien (Lazy Layouts) untuk menciptakan aplikasi yang mampu menampilkan dan menyaring data dalam jumlah besar tanpa mengorbankan performa aplikasi.
+
+## Tugas Pertemuan 4
+**Tanggal**: Rabu, 23 September 2026
+
+## Screenshot
+<img width="250" alt="WhatsApp Image 2026-09-30 at 00 51 22 (1)" src="https://github.com/user-attachments/assets/2abf4ab9-a8d4-430a-b405-c5ad0f719f46" />
+<img width="250" alt="WhatsApp Image 2026-09-30 at 00 49 18 (1)" src="https://github.com/user-attachments/assets/5cede0bc-e583-4447-b834-9726aab0bcc3" />
+<img width="250" alt="WhatsApp Image 2026-09-30 at 00 51 22" src="https://github.com/user-attachments/assets/e58d82c3-9e70-4a82-9bac-ed228d7bf205" />
+
+
+
+**Kesimpulan Praktikum:**  
+Pertemuan keempat membahas pengelolaan state dan recomposition di Jetpack Compose melalui state hoisting, unidirectional data flow, form interaktif, pencarian produk, loading dengan LaunchedEffect, halaman detail, serta navigasi antarhalaman menggunakan NavController.
+
+## Tugas Pertemuan 5
+**Tanggal**: Rabu, 30 September 2026
+
+## Screenshot
+<img width="738" height="1600" alt="WhatsApp Image 2026-10-06 at 23 04 38" src="https://github.com/user-attachments/assets/3f735aad-3569-4b24-ba6f-5abf4373bc04" />
+<img width="738" height="1600" alt="WhatsApp Image 2026-10-06 at 23 12 39" src="https://github.com/user-attachments/assets/2efe8067-c139-46be-8e90-5914c3a0c73a" />
+
+
+**Kesimpulan Praktikum:**
+Pertemuan kelima menekankan pengambilan data JSON dari web service memakai Retrofit dan Gson, serta penerapan arsitektur MVVM dengan ProductViewModel dan StateFlow untuk mengelola kondisi Loading, Success, dan Error, sehingga aplikasi dapat menampilkan data dan gambar produk dari internet secara dinamis.
