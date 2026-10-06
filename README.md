@@ -57,8 +57,8 @@ Pertemuan keempat membahas pengelolaan state dan recomposition di Jetpack Compos
 **Tanggal**: Rabu, 30 September 2026
 
 ## Screenshot
-<img width="738" height="1600" alt="WhatsApp Image 2026-10-06 at 23 04 38" src="https://github.com/user-attachments/assets/3f735aad-3569-4b24-ba6f-5abf4373bc04" />
-<img width="738" height="1600" alt="WhatsApp Image 2026-10-06 at 23 12 39" src="https://github.com/user-attachments/assets/2efe8067-c139-46be-8e90-5914c3a0c73a" />
+<img width="250" alt="WhatsApp Image 2026-10-06 at 23 04 38" src="https://github.com/user-attachments/assets/3f735aad-3569-4b24-ba6f-5abf4373bc04" />
+<img width="250" alt="WhatsApp Image 2026-10-06 at 23 12 39" src="https://github.com/user-attachments/assets/2efe8067-c139-46be-8e90-5914c3a0c73a" />
 
 
 **Kesimpulan Praktikum:**
